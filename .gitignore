@@ -1,0 +1,13 @@
+# Eclipse
+.metadata
+.settings
+[Rr]elease
+[Dd]ebug
+.launch
+.project
+.cproject
+.mxproject
+.settings
+
+# Misc
+.directory
